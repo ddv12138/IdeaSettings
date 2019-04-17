@@ -22,6 +22,26 @@
           </option>
           <option name="targetPath" value="/home/ubuntu/apache-tomcat-9.0.19/webapps" />
         </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="1d1f156f-d2d9-4d12-a9a6-a8c564249ec8" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="fd7bdb44-1aa0-48c9-9a58-9202ad763e5e" />
+              <id>fd7bdb44-1aa0-48c9-9a58-9202ad763e5e</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="1d1f156f-d2d9-4d12-a9a6-a8c564249ec8" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="751e891d-7a5b-43b7-b751-8c10641938b5" />
+              <id>751e891d-7a5b-43b7-b751-8c10641938b5</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/home/ubuntu/apache-tomcat-9.0.19/webapps" />
+        </WebDeploymentTransportHostTarget>
       </list>
     </option>
   </component>
