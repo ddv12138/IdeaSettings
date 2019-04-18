@@ -40,7 +40,7 @@
               <id>751e891d-7a5b-43b7-b751-8c10641938b5</id>
             </TransportTarget>
           </option>
-          <option name="targetPath" value="/home/ubuntu/apache-tomcat-9.0.19/webapps/ROOT" />
+          <option name="targetPath" value="/home/ubuntu/apache-tomcat-9.0.19/webapps" />
         </WebDeploymentTransportHostTarget>
       </list>
     </option>
