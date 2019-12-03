@@ -34,6 +34,18 @@
           <option name="url" value="https://github.com/ddv12138/Leetcode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-rest-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ddv12138/FlowableTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ddv12138" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea-workspace" />
