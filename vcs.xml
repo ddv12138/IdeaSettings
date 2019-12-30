@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/ddv12138/Java-Web-WebSite-Practice" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mandelo/ssm_shiro_blog" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea-workspace" />
