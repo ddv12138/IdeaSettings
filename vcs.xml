@@ -54,6 +54,18 @@
           <option name="url" value="https://github.com/Mandelo/ssm_shiro_blog" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:alvis-yu/uexam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/alvis-yu/uexam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WinterChenS/springboot2-mybatis-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea-workspace" />
@@ -67,5 +79,8 @@
         <option value="3" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
