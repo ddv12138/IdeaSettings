@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="ENABLE_MEMORY_AGENT" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -416,6 +417,7 @@
     <data-views />
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
       <debugger id="javascript">
