@@ -14,6 +14,10 @@
           <option name="url" value="http://192.168.2.221" />
           <option name="userName" value="liukang@izhonghong.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.221:ZGS/ZGS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea-workspace" />
@@ -27,8 +31,5 @@
         <option value="Default.Date" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
