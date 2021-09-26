@@ -22,6 +22,10 @@
           <option name="url" value="https://git.133ec.com/tool_murders/sscloud-flowable" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.133ec.com" />
+          <option name="userName" value="liukang@133.cn" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\hl-workspace" />
