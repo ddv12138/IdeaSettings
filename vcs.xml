@@ -18,9 +18,13 @@
           <option name="url" value="git@192.168.2.221:ZGS/ZGS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.133ec.com/tool_murders/sscloud-flowable" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\idea-workspace" />
+    <option name="cloneParentDir" value="D:\hl-workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
